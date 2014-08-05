@@ -1,0 +1,12 @@
+{
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Adam Cmiel adam@famo.us",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.7.4",
+    "kue": "^0.8.3"
+  }
+}
