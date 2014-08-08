@@ -6,6 +6,7 @@
   "author": "Adam Cmiel adam@famo.us",
   "license": "MIT",
   "dependencies": {
+    "coffee-script": "^1.7.1",
     "express": "^4.7.4",
     "kue": "^0.8.3"
   }
